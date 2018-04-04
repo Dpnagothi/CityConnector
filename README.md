@@ -1,7 +1,7 @@
 # CityConnector
 
 
-Prasad - To follow up on the interview process steps, as a next step, we would like you to write a program in Java which determines if two cities are connected.
+To follow up on the interview process steps, as a next step, we would like you to write a program in Java which determines if two cities are connected.
 
 Two cities are considered connected if there’s a series of roads that can be travelled from one city to another.
 
